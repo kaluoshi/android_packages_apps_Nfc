@@ -1,2 +1,6 @@
-android_packages_apps_Nfc
+ParanoidAndroid
 =========================
+
+-Branches
+
+For Nexus devices use "jellybean". For Other devices use "jellybean-legacy".
